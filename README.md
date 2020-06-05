@@ -103,7 +103,7 @@ axis ([0 200 0 0.5]);
 
 The plotted output shows the peak at 111 meters (the initial target position was 110 so the peak matches the initial position).
 
-<img src="images/matlab_1_image.PNG" />
+<img src="images/matlab_image_1.PNG" />
 
 
 # TASK 4. 2D CFAR
@@ -235,5 +235,5 @@ colorbar;
 
 The output plot:
 
-<img src="images/matlab_2_image.PNG" />
+<img src="images/matlab_image_2.PNG" />
 
